@@ -1,6 +1,8 @@
 # predator-prey-simulation
 ## A Lotka-Volterra model written in Java that describes predator-prey relationships
 
+For the video of the simulation: https://drive.google.com/file/d/18cxMqw3v-uOWJrzy2A8SdowlRYG5nu0f/view?usp=sharing
+
 The Lotka-Volterra model depends on six parameters: 
 * the population of prey
 * the population of predator
